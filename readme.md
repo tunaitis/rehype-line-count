@@ -77,3 +77,6 @@ rehype()
 ## License
 
 MIT
+
+[unified]: https://github.com/unifiedjs/unified
+[rehype]: https://github.com/rehypejs/rehype
