@@ -50,7 +50,7 @@ rehype()
 
 ```html
 <pre>
-	<code>
+  <code>
 		<p id="demo"></p>
 
 		<script>
