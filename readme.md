@@ -51,12 +51,12 @@ rehype()
 ```html
 <pre>
   <code>
-		<p id="demo"></p>
+    <p id="demo"></p>
 
-		<script>
-		document.getElementById("demo").innerHTML = "Hello Dolly.";
-		</script>
-	</code>
+    <script>
+    document.getElementById("demo").innerHTML = "Hello Dolly.";
+    </script>
+  </code>
 </pre>
 ```
 
@@ -64,13 +64,13 @@ rehype()
 
 ```html
 <pre>
-	<code data-line-count="5">
-		<p id="demo"></p>
+  <code data-line-count="5">
+    <p id="demo"></p>
 
-		<script>
-		document.getElementById("demo").innerHTML = "Hello Dolly.";
-		</script>
-	</code>
+    <script>
+    document.getElementById("demo").innerHTML = "Hello Dolly.";
+    </script>
+  </code>
 </pre>
 ```
 
