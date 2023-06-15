@@ -52,7 +52,6 @@ rehype()
 <pre>
   <code>
     <p id="demo"></p>
-
     <script>
     document.getElementById("demo").innerHTML = "Hello Dolly.";
     </script>
@@ -66,7 +65,6 @@ rehype()
 <pre>
   <code data-line-count="5">
     <p id="demo"></p>
-
     <script>
     document.getElementById("demo").innerHTML = "Hello Dolly.";
     </script>
