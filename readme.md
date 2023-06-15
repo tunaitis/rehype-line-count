@@ -63,7 +63,7 @@ rehype()
 
 ```html
 <pre>
-  <code data-line-count="5">
+  <code data-line-count="4">
     <p id="demo"></p>
     <script>
     document.getElementById("demo").innerHTML = "Hello Dolly.";
